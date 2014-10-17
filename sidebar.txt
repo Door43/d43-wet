@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wet:home|Door43 (wet)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wet|d43-wet repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wet/archive/master.zip|d43-wet.zip]]
+
+**Recent Changes**
+{{changes>ns = wet}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wet|Ethnologue data]]
+
